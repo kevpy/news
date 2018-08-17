@@ -15,7 +15,7 @@ class Repository {
   // Iterate over sources when dbProvider
   // gets fetchTopIds implemented
   Future<List<int>> fetchTopIds() {
-    return sources[1].fetchTopIds();
+    return sources[0].fetchTopIds();
   }
 
   Future<ItemModel> fetchItem(int id) async {

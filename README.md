@@ -1,8 +1,7 @@
 # news
 
-A new Flutter project.
+A Flutter news app project.
 
-## Getting Started
+It consumes its data from hackernews api
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
